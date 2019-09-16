@@ -1,0 +1,23 @@
+{
+  "name": "book_management",
+  "version": "1.0.0",
+  "description": "既存の書籍管理サイトを模したもの作成する。（GAS演習課題のシュミレーション）",
+  "main": "Code.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/a-nakamura1015/book_management.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/a-nakamura1015/book_management/issues"
+  },
+  "homepage": "https://github.com/a-nakamura1015/book_management#readme",
+  "devDependencies": {
+    "@types/google-apps-script": "0.0.59"
+  }
+}

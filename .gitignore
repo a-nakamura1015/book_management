@@ -1,2 +1,4 @@
 .clasp.json
 .claspignore
+package-lock.json
+node_modules
